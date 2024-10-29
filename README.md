@@ -90,11 +90,8 @@ Optional Joystick Enclosure:
 
 ## Troubleshooting
 Here are a couple of common errors that I ran into while testing:
-- Code quits with "Missing one or both inputs” written to the output.
-- Often, this just seems to happen due to communication issues even if pins are seeded correctly, so try exiting the program and trying again a couple times. If the error persists, check that the pins are correctly seeded in the motherboard and joystick and try again.
-- Check if the correct port is being used by looking at the output of the Sketch.
-- Simulation runs but the circle representing the player is missing
-- This also seems to be a communication issue. Exit and try again.
+- Code quits with "Missing one or both inputs” written to the output. Often, this just seems to happen due to communication issues even if pins are seeded correctly, so try exiting the program and trying again a couple times. If the error persists, check that the pins are correctly seeded in the motherboard and joystick and try again. Check if the correct port is being used by looking at the output of the Sketch.
+- Simulation runs but the circle representing the player is missing. This also seems to be a communication issue. Exit and try again.
 
 General code troubleshooting: 
 - The pin numbers corresponding to inputs are hardcoded in the Arduino sketch. Make sure that the pin numbers line up with those in your breadboard.
