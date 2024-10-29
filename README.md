@@ -12,15 +12,19 @@ If you are interested in more of the design details and process behind creating 
 
 ## Media
 Gameplay:
+
 ![Gif of the cat toy simulator's gameplay](Media/Gifs/cat_gameplay.gif)
 
 Players can move around using the joystick:
+
 ![Gif of the cat toy simulator's joystick controls](Media/Gifs/cat_joystick.gif)
 
 Players can "jump" using the button:
+
 ![Gif of the cat toy simulator's button controls](Media/Gifs/cat_impulse.gif)
 
 Cats can grab the player, who can regain control by clicking the button:
+
 ![Gif of the cats grabbing the player in the game](Media/Gifs/cat_grab.gif)
 
 ## Materials
@@ -32,7 +36,7 @@ Cats can grab the player, who can regain control by clicking the button:
 
 Optional (for the joystick enclosure):
 - 3D printer
-- 4x: 3mm ? heat inserts
+- 4x: M3-0.5 heat set inserts
 - 2x: 3mm by ? screws
 - 2x: 3mm screws
 
@@ -41,9 +45,11 @@ Breadboard Setup:
 1. Solder the pins that came with the ESP32 onto the board.
 2. TODO
 
-[TODO: Fritzig diagram]
-
+Here's what your breadboard should look like:
 [TODO: media]
+
+Here's a Fritzig diagram of the wiring for ths project. 
+[TODO: Fritzig diagram]
 
 General Installations:
 1. Download the [Arduino IDE](https://www.arduino.cc/en/software) on your computer of choice.
