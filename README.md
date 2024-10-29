@@ -106,4 +106,12 @@ Enclosure troubleshooting:
 
 ## Credits
 Cat Pictures:
+- https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.deviantart.com%2Fanavrin-ai%2Fart%2FCat-Kitten-Isolated-On-Transparent-Background-7-965728225&psig=AOvVaw0wjowez13AuZsIqCFCP_U9&ust=1729562625831000&source=images&cd=vfe&opi=89978449&ved=0CBcQjhxqFwoTCJjgp4OxnokDFQAAAAAdAAAAABA9
+- https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.deviantart.com%2Fanavrin-ai%2Fart%2FCat-Transparent-Background-PNG-3-947858321&psig=AOvVaw0wjowez13AuZsIqCFCP_U9&ust=1729562625831000&source=images&cd=vfe&opi=89978449&ved=0CBcQjhxqFwoTCJjgp4OxnokDFQAAAAAdAAAAABBC
+- https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AEUR_cat_transparent.png&psig=AOvVaw0wjowez13AuZsIqCFCP_U9&ust=1729562625831000&source=images&cd=vfe&opi=89978449&ved=0CBcQjhxqFwoTCJjgp4OxnokDFQAAAAAdAAAAABBL
+-https://www.google.com/url?sa=i&url=https%3A%2F%2Fca.pinterest.com%2Fpin%2Forange-tabby-kitten-cute-cat-transparent-background-png-clipart--364369426114234340%2F&psig=AOvVaw0wjowez13AuZsIqCFCP_U9&ust=1729562625831000&source=images&cd=vfe&opi=89978449&ved=0CBcQjhxqFwoTCJjgp4OxnokDFQAAAAAdAAAAABBW
+- https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AExotic_cat_transparent.png&psig=AOvVaw0wjowez13AuZsIqCFCP_U9&ust=1729562625831000&source=images&cd=vfe&opi=89978449&ved=0CBcQjhxqFwoTCJjgp4OxnokDFQAAAAAdAAAAABBk
+- https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.deviantart.com%2Fanavrin-ai%2Fart%2FCat-Kitten-Isolated-On-Transparent-Background-13-965728152&psig=AOvVaw0wjowez13AuZsIqCFCP_U9&ust=1729562625831000&source=images&cd=vfe&opi=89978449&ved=0CBcQjhxqFwoTCJjgp4OxnokDFQAAAAAdAAAAABBv
+
 Original Enclosure Model:
+https://github.com/ttseng/coms3930-joystick-enclosure/tree/main
