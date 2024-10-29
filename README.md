@@ -78,11 +78,11 @@ Optional Joystick Enclosure:
 2. 3D print the top and bottom sections of the enclosure using your printer of choice. 
 3. Insert the head inserts into the designated locations on the bottom section of the enclosure. [TODO: this] is a good tutorial for heat inserts.
 
-<a href="url"><img src="Media/Images/enclosure_bottom.png" width="200"><\a>
+<a href="url"><img src="Media/Images/enclosure_bottom.png" width="400">
 
 5. Place the joystick onto the bottom section of the enclosure such that the holes line up with the head inserts. Screw the joystick into place using the 3mm by 4?mm [TODO] screws
 
-<a href="url"><img src="Media/Images/enclosure_bottom_joystick.png" width="200"><\a>
+<a href="url"><img src="Media/Images/enclosure_bottom_joystick.png" width="400">
 
 7. Remove the cap of the joystick and place the top section of the enclosure onto the bottom section and joystick such that the holes on the top section line up with the heat inserts on the bottom section.
 8. Screw the sections together using the 3mm by 7?mm [TODO] screws. Place the cap back onto the joystick.
