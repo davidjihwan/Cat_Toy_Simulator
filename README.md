@@ -1,4 +1,4 @@
-# Cat_Toy_Simulator
+# Cat Toy Simulator
 A “cat toy simulator” controlled by a physical joystick, button, and LILYGO ESP32
 ![Image of the cat toy simulator running on a computer](Media/Images/cat_gameplay.png)
 
