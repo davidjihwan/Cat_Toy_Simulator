@@ -35,7 +35,7 @@ Cats can grab the player, who can regain control by clicking the button:
 - 5x: Male to female jumper wires
 - 7x: Male to male jumper wires
 - [Tactile Button](https://www.aliexpress.us/item/3256806107122384.html?spm=a2g0o.order_list.order_list_main.47.21ef1802q6HtRj&gatewayAdapt=glo2usa#nav-specification)
-- [Joystick](TODO)
+- [Joystick](https://www.aliexpress.com/item/1005006188746511.html)
 
 Optional (for the joystick enclosure):
 - 3D printer
