@@ -52,7 +52,7 @@ Breadboard Setup:
 Here's a Fritzing wiring diagram of the wiring for this project. 
 ![Image of the Fritzing wiring diagram](Media/Images/fritzing_diagram.png)
 
-Here's what your breadboard should look like (ignore the wires not included:
+Here's what your breadboard should look like:
 ![Image of the breadboard with wiring](Media/Images/breadboard_wired.png)
 
 General Installations:
