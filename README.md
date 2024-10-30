@@ -53,7 +53,7 @@ Here's a Fritzing wiring diagram of the wiring for this project.
 ![Image of the Fritzing wiring diagram](Media/Images/fritzing_diagram.png)
 
 Here's what your breadboard should look like (ignore the wires not included:
-![Image of the breadboard with wiring](Media/Images/breadboar_wired.png)
+![Image of the breadboard with wiring](Media/Images/breadboard_wired.png)
 
 General Installations:
 1. Download the [Arduino IDE](https://www.arduino.cc/en/software) on your computer of choice.
