@@ -49,10 +49,10 @@ Breadboard Setup:
 2. Insert the ESP-32 into the breadboard following the wiring diagram below.
 3. Connect the pins following the wiring diagram below. Take note that the jumper wires connecting the joystick to the breadboard should be male to female wires.
 
-Here's a Fritzig wiring diagram of the wiring for ths project. 
-[TODO: Fritzig diagram]
+Here's a Fritzing wiring diagram of the wiring for this project. 
+![Image of the Fritzing wiring diagram](Media/Images/fritzing_diagram.png)
 
-Here's what your breadboard should look like:
+Here's what your breadboard should look like (ignore the wires not included:
 ![Image of the breadboard with wiring](Media/Images/breadboard_wired.png)
 
 General Installations:
