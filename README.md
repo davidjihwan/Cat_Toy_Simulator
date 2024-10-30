@@ -40,8 +40,8 @@ Cats can grab the player, who can regain control by clicking the button:
 Optional (for the joystick enclosure):
 - 3D printer
 - 4x: M3-0.5 heat set inserts
-- 2x: 3mm by ? screws
-- 2x: 3mm screws
+- 2x: 3mm by 0.5mm screws
+- 2x: 3mm by 20mm screws
 
 ## Quick Start Guide
 Breadboard Setup:
@@ -63,13 +63,13 @@ General Installations:
 5. Install the relevant [ESP32 Drivers](https://github.com/Xinyuan-LilyGO/TTGO-T-Display) (CH9102).
 
 Project Installation and Setup:
-1. Download the Arduino project file to write to serial output [TODO: here].
+1. Download the Arduino project file to write to serial output [here](Arduino/Cat_Toy_Serial/Cat_Toy_Serial.ino).
 2. Open the project file.
 3. Change your board: Tools > Boards > esp32 > ESP32 Dev Module
 4. Change the port: Tools > Port > your-port (mac users should select “wchusb")
 5. Plug the ESP32 into your computer.
 6. Press the upload button (at the top left of the window) to upload your code to the ESP32. 
-7. Download the Processing project file to read the serial output and write to the computer screen [TODO: here].
+7. Download the Processing project file to read the serial output and write to the computer screen [here](Processing/Cat_Toy_Simulator/Cat_Toy_Simulator.pde).
 8. Open the project file and hit run (at the top left of the window). The port corresponding to the ESP32 is hardcoded in the Processing sketch, and often isn’t the right one. Once you hit run, you’ll see a list of the currently available ports along with their corresponding numbers. Change the number of the port in the line “String portName = Serial.list()[NUMBER];” (near the top of setup()) to the one that corresponds to “wchusb”, and run the program again.
 9. That's it! You should see the running Processing sketch, with the ESP32 now taking in inputs from the joystick and button reflected in the sketch. 
 
