@@ -74,6 +74,7 @@ Project Installation and Setup:
 9. That's it! You should see the running Processing sketch, with the ESP32 now taking in inputs from the joystick and button reflected in the sketch. 
 
 Optional Joystick Enclosure:
+![Screenshot of the enclosure file](Media/Images/enclosure_model.png)
 1. Download the files for the joystick enclosure [TODO: here]
 2. 3D print the top and bottom sections of the enclosure using your printer of choice. 
 3. Insert the head inserts into the designated locations on the bottom section of the enclosure. [TODO: this] is a good tutorial for heat inserts.
